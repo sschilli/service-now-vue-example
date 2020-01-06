@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css">
+    <content_css action="DELETE">
+        <name>vuejs_tutorial_css</name>
+        <style>h3[data-v-b9167eee]{margin:40px 0 0}ul[data-v-b9167eee]{list-style-type:none;padding:0}li[data-v-b9167eee]{display:inline-block;margin:0 10px}a[data-v-b9167eee]{color:#42b983}#app{font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-align:center;color:#2c3e50;margin-top:60px}</style>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-06 19:35:12</sys_created_on>
+        <sys_id>9dae557b2f820010e987b0c62799b6dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vuejs_tutorial_css</sys_name>
+        <sys_package display_value="CyberGRX" source="x_419764_cybergrx">2f0e157f2f420010e987b0c62799b654</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CyberGRX">2f0e157f2f420010e987b0c62799b654</sys_scope>
+        <sys_update_name>content_css_9dae557b2f820010e987b0c62799b6dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-06 19:35:12</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CyberGRX">2f0e157f2f420010e987b0c62799b654</application>
+        <file_path/>
+        <instance_id>71f62ed2db5100142f68c5970596196f</instance_id>
+        <instance_name>dev95271</instance_name>
+        <name>content_css_9dae557b2f820010e987b0c62799b6dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css"><content_css action="INSERT_OR_UPDATE"><name>vuejs_tutorial_css</name><style>h3[data-v-b9167eee]{margin:40px 0 0}ul[data-v-b9167eee]{list-style-type:none;padding:0}li[data-v-b9167eee]{display:inline-block;margin:0 10px}a[data-v-b9167eee]{color:#42b983}#app{font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-align:center;color:#2c3e50;margin-top:60px}</style><sys_class_name>content_css</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-06 19:35:12</sys_created_on><sys_id>9dae557b2f820010e987b0c62799b6dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>vuejs_tutorial_css</sys_name><sys_package display_value="CyberGRX" source="x_419764_cybergrx">2f0e157f2f420010e987b0c62799b654</sys_package><sys_policy/><sys_scope display_value="CyberGRX">2f0e157f2f420010e987b0c62799b654</sys_scope><sys_update_name>content_css_9dae557b2f820010e987b0c62799b6dc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-06 19:35:12</sys_updated_on><type>local</type><url/></content_css></record_update>]]></payload>
+        <payload_hash>-263623096</payload_hash>
+        <record_name>vuejs_tutorial_css</record_name>
+        <reverted_from/>
+        <source>2f0e157f2f420010e987b0c62799b656</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-06 19:35:12</sys_created_on>
+        <sys_id>37be5db72f820010e987b0c62799b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f7c5aa3f90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-06 19:35:12</sys_updated_on>
+        <type>Style Sheet</type>
+        <update_guid>7fbe5db709820010077d939a2498a65c</update_guid>
+        <update_guid_history>7fbe5db709820010077d939a2498a65c:-263623096</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="vuejs_tutorial_css">84fa35772f060010e987b0c62799b6ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-06 21:38:22</sys_created_on>
+        <sys_db_object display_value="" name="content_css">content_css</sys_db_object>
+        <sys_id>2fe3fa935e574ee4b573a4865f318824</sys_id>
+        <sys_metadata>9dae557b2f820010e987b0c62799b6dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vuejs_tutorial_css</sys_name>
+        <sys_package display_value="CyberGRX" source="x_419764_cybergrx">2f0e157f2f420010e987b0c62799b654</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CyberGRX">2f0e157f2f420010e987b0c62799b654</sys_scope>
+        <sys_scope_delete display_value="">3897abc28cc24a508779889ca9809900</sys_scope_delete>
+        <sys_update_name>content_css_9dae557b2f820010e987b0c62799b6dc</sys_update_name>
+        <sys_update_version display_value="content_css_9dae557b2f820010e987b0c62799b6dc">37be5db72f820010e987b0c62799b65d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-06 21:38:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
