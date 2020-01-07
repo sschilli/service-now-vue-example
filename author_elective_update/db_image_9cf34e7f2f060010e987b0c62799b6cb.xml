@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="DELETE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>200</height>
+        <image>0f7aca732f460010e987b0c62799b69f</image>
+        <name>img/logo.82b9c7a5.png</name>
+        <size_bytes>6849</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-06 22:17:48</sys_created_on>
+        <sys_id>9cf34e7f2f060010e987b0c62799b6cb</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>img/logo.82b9c7a5.png</sys_name>
+        <sys_package display_value="CyberGRX" source="x_419764_cybergrx">2f0e157f2f420010e987b0c62799b654</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CyberGRX">2f0e157f2f420010e987b0c62799b654</sys_scope>
+        <sys_update_name>db_image_9cf34e7f2f060010e987b0c62799b6cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-06 22:46:18</sys_updated_on>
+        <thumbnail/>
+        <width>200</width>
+    </db_image>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CyberGRX">2f0e157f2f420010e987b0c62799b654</application>
+        <file_path/>
+        <instance_id>71f62ed2db5100142f68c5970596196f</instance_id>
+        <instance_name>dev95271</instance_name>
+        <name>db_image_9cf34e7f2f060010e987b0c62799b6cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image"><db_image action="INSERT_OR_UPDATE"><active>true</active><category/><format>png</format><height>200</height><image>0f7aca732f460010e987b0c62799b69f</image><name>img/logo.82b9c7a5.png</name><size_bytes>6849</size_bytes><sys_class_name>db_image</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-06 22:17:48</sys_created_on><sys_id>9cf34e7f2f060010e987b0c62799b6cb</sys_id><sys_mod_count>4</sys_mod_count><sys_name>img/logo.82b9c7a5.png</sys_name><sys_package display_value="CyberGRX" source="x_419764_cybergrx">2f0e157f2f420010e987b0c62799b654</sys_package><sys_policy/><sys_scope display_value="CyberGRX">2f0e157f2f420010e987b0c62799b654</sys_scope><sys_update_name>db_image_9cf34e7f2f060010e987b0c62799b6cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-06 22:46:18</sys_updated_on><thumbnail/><width>200</width></db_image></record_update>]]></payload>
+        <payload_hash>-2028379616</payload_hash>
+        <record_name>img/logo.82b9c7a5.png</record_name>
+        <reverted_from/>
+        <source>6130da7b2f460010e987b0c62799b605</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-07 23:05:05</sys_created_on>
+        <sys_id>b3589b082f560010e987b0c62799b62b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f824125b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-07 23:05:05</sys_updated_on>
+        <type>Images</type>
+        <update_guid>3f589b08ed560010fb231a689e5ebb2a</update_guid>
+        <update_guid_history>3f589b08ed560010fb231a689e5ebb2a:-2028379616,e82052fb76460010d70f89a6b55da81c:462982170,969ec63b2b460010bdf4d729802838d0:462982170,b6ed0eb7f446001023f5a6534a562263:462982170,8f7a0ef37846001085fab02783e40733:-842360100,077aca735c46001046989f0815df64a2:1192590780,5d8602bf8c060010ae96e20adf7a9fe3:-1359503790,e104ce7f3a060010ac9bde6baf90faab:810642510,2d04ce7f160600109aaa20557d5109a6:-10055654,ed04ce7f64060010a68ac2bbff93eda4:-10055654,f1f30a7b02060010b176d6491195d7bb:1162871661</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="img/logo.82b9c7a5.png">a4685b082f560010e987b0c62799b6ce</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-07 23:05:08</sys_created_on>
+        <sys_db_object display_value="" name="db_image">db_image</sys_db_object>
+        <sys_id>106836b75f434d529f0f5d8d5eba4d81</sys_id>
+        <sys_metadata>9cf34e7f2f060010e987b0c62799b6cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>img/logo.82b9c7a5.png</sys_name>
+        <sys_package display_value="CyberGRX" source="x_419764_cybergrx">2f0e157f2f420010e987b0c62799b654</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CyberGRX">2f0e157f2f420010e987b0c62799b654</sys_scope>
+        <sys_scope_delete display_value="">3897abc28cc24a508779889ca9809900</sys_scope_delete>
+        <sys_update_name>db_image_9cf34e7f2f060010e987b0c62799b6cb</sys_update_name>
+        <sys_update_version display_value="db_image_9cf34e7f2f060010e987b0c62799b6cb">b3589b082f560010e987b0c62799b62b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-07 23:05:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

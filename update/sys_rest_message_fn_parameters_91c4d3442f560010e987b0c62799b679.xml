@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>third_party_id</name>
+        <rest_message_function display_value="GetVendorScores">4f749b402f560010e987b0c62799b64b</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-07 22:49:21</sys_created_on>
+        <sys_id>91c4d3442f560010e987b0c62799b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>third_party_id</sys_name>
+        <sys_package display_value="CyberGRX" source="x_419764_cybergrx">2f0e157f2f420010e987b0c62799b654</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CyberGRX">2f0e157f2f420010e987b0c62799b654</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_91c4d3442f560010e987b0c62799b679</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-07 22:49:21</sys_updated_on>
+        <type>string</type>
+        <value/>
+    </sys_rest_message_fn_parameters>
+</record_update>
